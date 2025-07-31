@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8c/b6/b9/8cb6b9d12a308d8e27315750eae1f1f7.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Cisalivia/assets/main/snapshot-girl.gif" width="300"/>
 </p>
 
 ---

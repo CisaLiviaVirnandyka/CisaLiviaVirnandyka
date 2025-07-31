@@ -3,8 +3,9 @@
 
 <br/>
 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Cisa+👋;Let's+build+something+cute+%26+useful!" alt="Typing SVG" />
-
+</p>
 ---
 
 ### 💼 About Me

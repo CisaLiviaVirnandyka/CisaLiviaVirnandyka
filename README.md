@@ -20,7 +20,7 @@
 📸 Snapshot from My Journey
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Working on Laptop GIF"/> </p>
 🔗 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/cisalivia/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:cisalivia@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Cisalivia"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> ```
+<p align="left"> <a href="https://www.linkedin.com/in/cisalivia/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:cisalivia@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Cisalivia"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> ```
 
 ### 🧠 Tech Stack
 

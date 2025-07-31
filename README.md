@@ -12,7 +12,7 @@
 
 - 🎓 Currently studying at **Fasilkom Unsri** – Informatics Management
 - 💻 Love exploring **Web Development** and **UI/UX Design**
-- 💼 Intern at **PT Bukit Asam** – focused on system analysis & documentation for internal dashboard
+- 💼 Interning as a System Analyst at PT Bukit Asam — focused on analyzing and creating BRS documents.
 - ✨ Sometimes a coder, sometimes an aesthetic layout nerd
 - 🐱‍🏍 Always up for creative tech projects
 

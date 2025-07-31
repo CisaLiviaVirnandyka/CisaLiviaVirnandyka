@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cisalivia/assets/main/snapshot-girl.gif" width="300"/>
-</p>
+</p> 
 
 ---
 

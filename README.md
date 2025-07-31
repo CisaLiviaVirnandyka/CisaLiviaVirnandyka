@@ -40,10 +40,10 @@
   <a href="https://www.linkedin.com/in/cisa-livia-virnandyka-23a530288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:cisalivia@email.com">
+  <a href="mailto:cisalivia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Cisalivia">
+  <a href="https://github.com/CisaliviaVirnandyka">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://instagram.com/cisalvrk">
